@@ -2,7 +2,7 @@
 
 ## Disk images
 
-The recommended installation method is to grab the latest disk image from [here](https://github.com/Screenly/screenly-ose/releases).
+The recommended installation method is to grab the latest disk image from [here](https://github.com/okeytalk/OpenSignage).
 
 ## Installing on Raspbian
 
